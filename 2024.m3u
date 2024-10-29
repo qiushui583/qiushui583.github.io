@@ -65,8 +65,8 @@ http://192.168.31.198:8686/rtp/239.61.5.154:1025
 http://192.168.31.198:8686/rtp/239.61.2.165:8978
 #EXTINF:-1 tvg-name="金鹰纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jinyingjishi.png" group-title="生活",金鹰纪实
 http://192.168.31.198:8686/rtp/239.61.3.7:9560
-#EXTINF:-1 tvg-name="纪实科教" tvg-logo="0" group-title="生活",纪实科教
-http://192.168.31.198:8686/rtp/239.61.5.10:1025
+#EXTINF:-1 tvg-name="爱上4K" tvg-logo="0" group-title="生活",爱上4K
+http://192.168.31.198:8686/rtp/239.61.5.164:1025
 #EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC1.jpg" group-title="生活",CHC动作电影
 http://192.168.31.198:8686/rtp/239.61.3.16:9616
 #EXTINF:-1 tvg-name="CGTN(英语）" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="生活",CGTN(英语）
