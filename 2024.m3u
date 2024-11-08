@@ -107,7 +107,7 @@ http://192.168.9.1:8686/rtp/239.61.2.32:8186
 http://192.168.9.1:8686/rtp/239.61.2.61:8360
 #EXTINF:-1 tvg-name="河南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/henan.png" group-title="地方卫视",河南卫视
 http://192.168.9.1:8686/rtp/239.61.2.59:8348
-#EXTINF:-1 tvg-name="海南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hainan.png" group-title="地方卫视",海南卫视
+#EXTINF:-1 tvg-name="海南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/lvyou.png" group-title="地方卫视",海南卫视
 http://192.168.9.1:8686/rtp/239.61.2.42:8246
 #EXTINF:-1 tvg-name="广西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangxi.png" group-title="地方卫视",广西卫视
 http://192.168.9.1:8686/rtp/239.61.2.48:8282
