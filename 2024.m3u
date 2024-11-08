@@ -49,8 +49,6 @@ http://192.168.9.1:8686/udp/239.61.3.112:10202
 http://192.168.9.1:8686/udp/239.61.3.113:10208
 #EXTINF:-1 tvg-name="睛彩广场舞" tvg-logo="0" group-title="生活",睛彩广场舞
 http://192.168.9.1:8686/udp/239.61.3.114:10214
-#EXTINF:-1 tvg-name="融媒体直播" tvg-logo="0" group-title="生活",融媒体直播
-http://192.168.9.1:8686/udp/239.61.4.142:1025
 #EXTINF:-1 tvg-name="新闻综合广播" tvg-logo="0" group-title="生活",新闻综合广播
 http://192.168.9.1:8686/udp/239.61.5.154:1025
 #EXTINF:-1 tvg-name="纪实人文" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanghaijishi.png" group-title="生活",纪实人文
