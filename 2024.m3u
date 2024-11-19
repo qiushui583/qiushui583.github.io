@@ -141,7 +141,7 @@ http://192.168.9.1:8686/rtp/239.61.2.151:8894
 http://192.168.9.1:8686/rtp/239.61.2.173:9026
 #EXTINF:-1 tvg-name="厦门卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xiamen.png" group-title="福建",厦门卫视
 http://192.168.9.1:8686/rtp/239.61.2.11:8060
-#EXTINF:-1 tvg-name="新动漫" tvg-logo="0" group-title="动漫",新动漫
+#EXTINF:-1 tvg-name="新动漫" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/xindongman.png" group-title="动漫",新动漫
 http://192.168.9.1:8686/rtp/239.61.4.173:1025
 #EXTINF:-1 tvg-name="金鹰卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jinyingkatong.png" group-title="动漫",金鹰卡通
 http://192.168.9.1:8686/rtp/239.61.2.221:9314
