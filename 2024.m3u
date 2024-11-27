@@ -57,6 +57,8 @@ http://192.168.9.1:8686/udp/239.61.3.113:10208
 http://192.168.9.1:8686/udp/239.61.3.114:10214
 #EXTINF:-1 tvg-name="纪实人文" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanghaijishi.png" group-title="生活",纪实人文
 http://192.168.9.1:8686/udp/239.61.2.165:8978
+#EXTINF:-1 tvg-name="金鹰纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jinyingjishi.png" group-title="生活",金鹰纪实
+http://192.168.9.1:8686/rtp/239.61.3.7:9560
 #EXTINF:-1 tvg-name="陶瓷" tvg-logo="0" group-title="生活",陶瓷
 http://192.168.9.1:8686/rtp/239.61.3.109:10184
 #EXTINF:-1 tvg-name="中华美食" tvg-logo="0" group-title="生活",中华美食
