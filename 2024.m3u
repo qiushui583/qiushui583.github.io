@@ -41,6 +41,12 @@ http://192.168.9.1:8686/udp/239.61.3.77:9980
 http://192.168.9.1:8686/udp/239.61.3.9:9572
 #EXTINF:-1 tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="央视",CCTV4K
 http://192.168.9.1:8686/udp/239.61.3.102:10130
+#EXTINF:-1 tvg-name="家庭理财" tvg-logo="0" group-title="财经",家庭理财
+http://192.168.9.1:8686/udp/239.61.3.67:9920
+#EXTINF:-1 tvg-name="财富天下" tvg-logo="0" group-title="财经",财富天下
+http://192.168.9.1:8686/udp/239.61.3.63:9896
+#EXTINF:-1 tvg-name="证券服务" tvg-logo="0" group-title="财经",证券服务
+http://192.168.9.1:8686/udp/239.61.3.71:9944
 #EXTINF:-1 tvg-name="睛彩青少" tvg-logo="0" group-title="生活",睛彩青少
 http://192.168.9.1:8686/udp/239.61.3.111:10196
 #EXTINF:-1 tvg-name="睛彩竞技" tvg-logo="0" group-title="生活",睛彩竞技
@@ -49,14 +55,8 @@ http://192.168.9.1:8686/udp/239.61.3.112:10202
 http://192.168.9.1:8686/udp/239.61.3.113:10208
 #EXTINF:-1 tvg-name="睛彩广场舞" tvg-logo="0" group-title="生活",睛彩广场舞
 http://192.168.9.1:8686/udp/239.61.3.114:10214
-#EXTINF:-1 tvg-name="新闻综合广播" tvg-logo="0" group-title="生活",新闻综合广播
-http://192.168.9.1:8686/udp/239.61.5.154:1025
 #EXTINF:-1 tvg-name="纪实人文" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanghaijishi.png" group-title="生活",纪实人文
 http://192.168.9.1:8686/udp/239.61.2.165:8978
-#EXTINF:-1 tvg-name="金鹰纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jinyingjishi.png" group-title="生活",金鹰纪实
-http://192.168.9.1:8686/udp/239.61.3.7:9560
-#EXTINF:-1 tvg-name="爱上4K" tvg-logo="0" group-title="生活",爱上4K
-http://192.168.9.1:8686/udp/239.61.5.164:1025
 #EXTINF:-1 tvg-name="陶瓷" tvg-logo="0" group-title="生活",陶瓷
 http://192.168.9.1:8686/rtp/239.61.3.109:10184
 #EXTINF:-1 tvg-name="中华美食" tvg-logo="0" group-title="生活",中华美食
