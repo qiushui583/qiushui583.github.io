@@ -123,6 +123,12 @@ http://192.168.9.1:8686/rtp/239.61.2.60:8354
 http://192.168.9.1:8686/rtp/239.61.2.223:9326
 #EXTINF:-1 tvg-name="甘肃卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/gansu.png" group-title="地方卫视",甘肃卫视
 http://192.168.9.1:8686/rtp/239.61.2.225:9338
+#EXTINF:-1 tvg-name="三沙卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sansha.png" group-title="地方卫视",三沙卫视
+http://192.168.9.1:8686/rtp/239.61.3.10:9578
+#EXTINF:-1 tvg-name="陕西卫视" tvg-logo="0" group-title="地方卫视",陕西卫视
+http://192.168.9.1:8686/rtp/239.61.2.38:8222
+#EXTINF:-1 tvg-name="宁夏卫视" tvg-logo="0" group-title="地方卫视",宁夏卫视
+http://192.168.9.1:8686/rtp/239.61.2.56:8330
 #EXTINF:-1 tvg-name="福建综合" tvg-logo="0" group-title="福建",福建综合
 http://192.168.9.1:8686/rtp/239.61.3.4:9542
 #EXTINF:-1 tvg-name="东南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongnan.png" group-title="福建",东南卫视
