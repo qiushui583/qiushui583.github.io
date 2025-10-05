@@ -41,7 +41,7 @@ http://192.168.9.1:8686/udp/239.61.3.77:9980
 http://192.168.9.1:8686/udp/239.61.3.9:9572
 #EXTINF:-1 tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="央视",CCTV4K
 http://192.168.9.1:8686/udp/239.61.3.102:10130
-#EXTINF:-1 tvg-name="睛彩青少" tvg-logo="https://live.fanmingming.cn/tv/睛彩青少.png" group-title="生活",睛彩青少
+#EXTINF:-1 tvg-name="睛彩青少" tvg-logo="https://raw.githubusercontent.com/qiushui583/tvtubiao/refs/heads/main/睛彩青少.png" group-title="生活",睛彩青少
 http://192.168.9.1:8686/udp/239.61.3.111:10196
 #EXTINF:-1 tvg-name="睛彩竞技" tvg-logo="0" group-title="生活",睛彩竞技
 http://192.168.9.1:8686/udp/239.61.3.112:10202
