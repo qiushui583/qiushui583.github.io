@@ -127,7 +127,7 @@ http://192.168.9.1:8686/rtp/239.61.2.132:8708
 http://192.168.9.1:8686/rtp/239.61.2.3:8012
 #EXTINF:-1 tvg-name="福建新闻" tvg-logo="0" group-title="福建",福建新闻
 http://192.168.9.1:8686/rtp/239.61.2.4:8018
-#EXTINF:-1 tvg-name="福建电视剧" tvg-logo="0" group-title="福建",福建电视剧
+#EXTINF:-1 tvg-name="福建电视剧" tvg-logo="https://raw.githubusercontent.com/qiushui583/tvtubiao/refs/heads/main/福建电视剧.png" group-title="福建",福建电视剧
 http://192.168.9.1:8686/rtp/239.61.2.5:8024
 #EXTINF:-1 tvg-name="福建旅游" tvg-logo="0" group-title="福建",福建旅游
 http://192.168.9.1:8686/rtp/239.61.2.6:8030
