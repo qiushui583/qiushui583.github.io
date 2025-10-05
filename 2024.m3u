@@ -167,7 +167,7 @@ http://192.168.9.1:8686/rtp/239.61.3.17:9622
 http://192.168.9.1:8686/rtp/239.61.2.167:8990 
 #EXTINF:-1 tvg-name="中国教育-2" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育2台" group-title="教育",中国教育-2 
 http://192.168.9.1:8686/rtp/239.61.3.6:9554 
-#EXTINF:-1 tvg-name="中国教育-4" tvg-logo="0" group-title="教育",中国教育-4
+#EXTINF:-1 tvg-name="中国教育-4" tvg-logo="https://live.fanmingming.com/tv/CETV4.png" group-title="教育",中国教育-4
 http://192.168.9.1:8686/rtp/239.61.3.15:9608
 #EXTINF:-1 tvg-name="中学生" tvg-logo="0" group-title="教育",中学生 
 http://192.168.9.1:8686/rtp/239.61.4.188:1025
