@@ -189,3 +189,21 @@ http://192.168.9.1:8686/rtp/239.61.3.74:9962
 http://192.168.9.1:8686/rtp/239.61.3.97:10100 
 #EXTINF:-1 tvg-name="老故事频道" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVlaogushi.png" group-title="其他",老故事频道 
 http://192.168.9.1:8686/rtp/239.61.3.98:10106  
+#EXTINF:-1 tvg-name="四川4K" tvg-logo="0" group-title="地方4K卫视",四川4K
+http://192.168.9.1:8686/rtp/239.61.3.130:10310
+#EXTINF:-1 tvg-name="湖南4K" tvg-logo="0" group-title="地方4K卫视",湖南4K
+http://192.168.9.1:8686/rtp/239.61.3.129:10304
+#EXTINF:-1 tvg-name="山东4K" tvg-logo="0" group-title="地方4K卫视",山东4K
+http://192.168.9.1:8686/rtp/239.61.3.128:10298
+#EXTINF:-1 tvg-name="浙江4K" tvg-logo="0" group-title="地方4K卫视",浙江4K
+http://192.168.9.1:8686/rtp/239.61.3.127:10292
+#EXTINF:-1 tvg-name="江苏4K" tvg-logo="0" group-title="地方4K卫视",江苏4K
+http://192.168.9.1:8686/rtp/239.61.3.126:10286
+#EXTINF:-1 tvg-name="东方4K" tvg-logo="0" group-title="地方4K卫视",东方4K
+http://192.168.9.1:8686/rtp/239.61.3.125:10280
+#EXTINF:-1 tvg-name="深圳4K" tvg-logo="0" group-title="地方4K卫视",深圳4K
+http://192.168.9.1:8686/rtp/239.61.3.123:10268
+#EXTINF:-1 tvg-name="广东4K" tvg-logo="0" group-title="地方4K卫视",广东4K
+http://192.168.9.1:8686/rtp/239.61.3.122:10262
+#EXTINF:-1 tvg-name="北京4K" tvg-logo="0" group-title="地方4K卫视",北京4K
+http://192.168.9.1:8686/rtp/239.61.3.116:10226
