@@ -41,12 +41,6 @@ http://192.168.9.1:8686/udp/239.61.3.77:9980
 http://192.168.9.1:8686/udp/239.61.3.9:9572
 #EXTINF:-1 tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="央视",CCTV4K
 http://192.168.9.1:8686/udp/239.61.3.102:10130
-#EXTINF:-1 tvg-name="家庭理财" tvg-logo="0" group-title="财经",家庭理财
-http://192.168.9.1:8686/udp/239.61.3.67:9920
-#EXTINF:-1 tvg-name="财富天下" tvg-logo="0" group-title="财经",财富天下
-http://192.168.9.1:8686/udp/239.61.3.63:9896
-#EXTINF:-1 tvg-name="证券服务" tvg-logo="0" group-title="财经",证券服务
-http://192.168.9.1:8686/udp/239.61.3.71:9944
 #EXTINF:-1 tvg-name="睛彩青少" tvg-logo="0" group-title="生活",睛彩青少
 http://192.168.9.1:8686/udp/239.61.3.111:10196
 #EXTINF:-1 tvg-name="睛彩竞技" tvg-logo="0" group-title="生活",睛彩竞技
