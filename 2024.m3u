@@ -133,7 +133,7 @@ http://192.168.9.1:8686/rtp/239.61.2.5:8024
 http://192.168.9.1:8686/rtp/239.61.2.6:8030
 #EXTINF:-1 tvg-name="福建经济生活" tvg-logo="https://raw.githubusercontent.com/qiushui583/tvtubiao/refs/heads/main/福建经济.png" group-title="福建",福建经济生活
 http://192.168.9.1:8686/rtp/239.61.2.7:8036
-#EXTINF:-1 tvg-name="福建文体" tvg-logo="https://raw.githubusercontent.com/qiushui583/tvtubiao/refs/heads/main/福建体育.png" group-title="福建",福建文体
+#EXTINF:-1 tvg-name="福建文体" tvg-logo="https://raw.githubusercontent.com/qiushui583/tvtubiao/refs/heads/main/福建文体.png" group-title="福建",福建文体
 http://192.168.9.1:8686/rtp/239.61.2.160:8948
 #EXTINF:-1 tvg-name="福建少儿" tvg-logo="https://raw.githubusercontent.com/qiushui583/tvtubiao/refs/heads/main/福建少儿.png" group-title="福建",福建少儿
 http://192.168.9.1:8686/rtp/239.61.2.9:8048
