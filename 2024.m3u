@@ -149,9 +149,9 @@ http://192.168.9.1:8686/rtp/239.61.3.104:10154
 http://192.168.9.1:8686/rtp/239.61.4.173:1025
 #EXTINF:-1 tvg-name="金鹰卡通" tvg-logo="https://raw.githubusercontent.com/qiushui583/tvtubiao/refs/heads/main/金鹰卡通.png" group-title="动漫",金鹰卡通
 http://192.168.9.1:8686/rtp/239.61.2.221:9314
-#EXTINF:-1 tvg-name="卡酷卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/kaku.png" group-title="动漫",卡酷卡通
+#EXTINF:-1 tvg-name="卡酷卡通" tvg-logo="https://raw.githubusercontent.com/qiushui583/tvtubiao/refs/heads/main/北京卡酷.png" group-title="动漫",卡酷卡通
 http://192.168.9.1:8686/rtp/239.61.2.222:9320
-#EXTINF:-1 tvg-name="嘉佳卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jiajiakt.png" group-title="动漫",嘉佳卡通
+#EXTINF:-1 tvg-name="嘉佳卡通" tvg-logo="https://raw.githubusercontent.com/qiushui583/tvtubiao/refs/heads/main/嘉佳卡通.png" group-title="动漫",嘉佳卡通
 http://192.168.9.1:8686/rtp/239.61.4.74:1025
 #EXTINF:-1 tvg-name="茶频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/DOCUMENTARY-CHANNEL.jpg" group-title="其他",茶频道
 http://192.168.9.1:8686/rtp/239.61.3.59:9872 
