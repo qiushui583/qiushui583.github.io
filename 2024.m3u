@@ -15,7 +15,7 @@ http://192.168.9.1:8686/udp/239.61.2.206:9224
 http://192.168.9.1:8686/udp/239.61.3.35:9728
 #EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://raw.githubusercontent.com/qiushui583/tvtubiao/refs/heads/main/CCTV5+.png" group-title="央视",CCTV5+
 http://192.168.9.1:8686/udp/239.61.2.171:9014
-#EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://raw.githubusercontent.com/qiushui583/tvtubiao/refs/heads/main/CCTV6.png "group-title="央视",CCTV6
+#EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://raw.githubusercontent.com/qiushui583/tvtubiao/refs/heads/main/CCTV6.png" group-title="央视",CCTV6
 http://192.168.9.1:8686/udp/239.61.3.36:9734
 #EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://raw.githubusercontent.com/qiushui583/tvtubiao/refs/heads/main/CCTV7.png" group-title="央视",CCTV7
 http://192.168.9.1:8686/udp/239.61.2.175:9038
