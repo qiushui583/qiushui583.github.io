@@ -89,31 +89,31 @@ http://192.168.9.1:8686/rtp/239.61.2.159:8942
 http://192.168.9.1:8686/rtp/239.61.2.248:9476
 #EXTINF:-1 tvg-name="天津卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/tianjin.png" group-title="地方卫视",天津卫视
 http://192.168.9.1:8686/rtp/239.61.2.180:9068
-#EXTINF:-1 tvg-name="四川卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sichuan.png" group-title="地方卫视",四川卫视
+#EXTINF:-1 tvg-name="四川卫视" tvg-logo="https://raw.githubusercontent.com/qiushui583/tvtubiao/refs/heads/main/四川卫视.png" group-title="地方卫视",四川卫视
 http://192.168.9.1:8686/rtp/239.61.2.251:9494
-#EXTINF:-1 tvg-name="江西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangxi.png" group-title="地方卫视",江西卫视
+#EXTINF:-1 tvg-name="江西卫视" tvg-logo="https://raw.githubusercontent.com/qiushui583/tvtubiao/refs/heads/main/江西卫视.png" group-title="地方卫视",江西卫视
 http://192.168.9.1:8686/rtp/239.61.2.182:9080
-#EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png" group-title="地方卫视",辽宁卫视
+#EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="https://raw.githubusercontent.com/qiushui583/tvtubiao/refs/heads/main/辽宁卫视.png" group-title="地方卫视",辽宁卫视
 http://192.168.9.1:8686/rtp/239.61.2.181:9074
-#EXTINF:-1 tvg-name="重庆卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/chongqing.png" group-title="地方卫视",重庆卫视
+#EXTINF:-1 tvg-name="重庆卫视" tvg-logo="https://raw.githubusercontent.com/qiushui583/tvtubiao/refs/heads/main/重庆卫视.png" group-title="地方卫视",重庆卫视
 http://192.168.9.1:8686/rtp/239.61.2.250:9488
-#EXTINF:-1 tvg-name="北京卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="地方卫视",北京卫视
+#EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://raw.githubusercontent.com/qiushui583/tvtubiao/refs/heads/main/北京卫视.png" group-title="地方卫视",北京卫视
 http://192.168.9.1:8686/rtp/239.61.2.32:8186
-#EXTINF:-1 tvg-name="云南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/yunnan.png" group-title="地方卫视",云南卫视
+#EXTINF:-1 tvg-name="云南卫视" tvg-logo="https://raw.githubusercontent.com/qiushui583/tvtubiao/refs/heads/main/云南卫视.png" group-title="地方卫视",云南卫视
 http://192.168.9.1:8686/rtp/239.61.2.61:8360
-#EXTINF:-1 tvg-name="河南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/henan.png" group-title="地方卫视",河南卫视
+#EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://raw.githubusercontent.com/qiushui583/tvtubiao/refs/heads/main/河南卫视.png" group-title="地方卫视",河南卫视
 http://192.168.9.1:8686/rtp/239.61.2.59:8348
-#EXTINF:-1 tvg-name="海南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/lvyou.png" group-title="地方卫视",海南卫视
+#EXTINF:-1 tvg-name="海南卫视" tvg-logo="https://raw.githubusercontent.com/qiushui583/tvtubiao/refs/heads/main/海南卫视.png" group-title="地方卫视",海南卫视
 http://192.168.9.1:8686/rtp/239.61.2.42:8246
-#EXTINF:-1 tvg-name="广西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangxi.png" group-title="地方卫视",广西卫视
+#EXTINF:-1 tvg-name="广西卫视" tvg-logo="https://raw.githubusercontent.com/qiushui583/tvtubiao/refs/heads/main/广西卫视.png" group-title="地方卫视",广西卫视
 http://192.168.9.1:8686/rtp/239.61.2.48:8282
-#EXTINF:-1 tvg-name="青海卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/qinghai.png" group-title="地方卫视",青海卫视
+#EXTINF:-1 tvg-name="青海卫视" tvg-logo="https://raw.githubusercontent.com/qiushui583/tvtubiao/refs/heads/main/青海卫视.png" group-title="地方卫视",青海卫视
 http://192.168.9.1:8686/rtp/239.61.2.60:8354
-#EXTINF:-1 tvg-name="吉林卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jilin.png" group-title="地方卫视",吉林卫视
+#EXTINF:-1 tvg-name="吉林卫视" tvg-logo="https://raw.githubusercontent.com/qiushui583/tvtubiao/refs/heads/main/吉林卫视.png" group-title="地方卫视",吉林卫视
 http://192.168.9.1:8686/rtp/239.61.2.223:9326
-#EXTINF:-1 tvg-name="甘肃卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/gansu.png" group-title="地方卫视",甘肃卫视
+#EXTINF:-1 tvg-name="甘肃卫视" tvg-logo="https://raw.githubusercontent.com/qiushui583/tvtubiao/refs/heads/main/甘肃卫视.png" group-title="地方卫视",甘肃卫视
 http://192.168.9.1:8686/rtp/239.61.2.225:9338
-#EXTINF:-1 tvg-name="三沙卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sansha.png" group-title="地方卫视",三沙卫视
+#EXTINF:-1 tvg-name="三沙卫视" tvg-logo="https://raw.githubusercontent.com/qiushui583/tvtubiao/refs/heads/main/三沙卫视.png" group-title="地方卫视",三沙卫视
 http://192.168.9.1:8686/rtp/239.61.3.10:9578
 #EXTINF:-1 tvg-name="陕西卫视" tvg-logo="https://raw.githubusercontent.com/qiushui583/tvtubiao/refs/heads/main/陕西卫视.png" group-title="地方卫视",陕西卫视
 http://192.168.9.1:8686/rtp/239.61.2.38:8222
@@ -181,7 +181,7 @@ http://192.168.9.1:8686/rtp/239.61.3.64:9902
 http://192.168.9.1:8686/rtp/239.61.3.70:9938
 #EXTINF:-1 tvg-name="生态环境" tvg-logo="https://raw.githubusercontent.com/qiushui583/tvtubiao/refs/heads/main/生态环境.png" group-title="其他",生态环境
 http://192.168.9.1:8686/rtp/239.61.3.68:9926
-#EXTINF:-1 tvg-name="四海钓鱼" tvg-logo=https://raw.githubusercontent.com/qiushui583/tvtubiao/refs/heads/main/四海钓鱼.png" group-title="其他",四海钓鱼
+#EXTINF:-1 tvg-name="四海钓鱼" tvg-logo="https://raw.githubusercontent.com/qiushui583/tvtubiao/refs/heads/main/四海钓鱼.png" group-title="其他",四海钓鱼
 http://192.168.9.1:8686/rtp/239.61.3.69:9932 
 #EXTINF:-1 tvg-name="发现之旅" tvg-logo="https://raw.githubusercontent.com/qiushui583/tvtubiao/refs/heads/main/发现之旅.png" group-title="其他",发现之旅
 http://192.168.9.1:8686/rtp/239.61.3.74:9962 
