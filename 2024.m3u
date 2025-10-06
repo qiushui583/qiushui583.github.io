@@ -121,7 +121,7 @@ http://192.168.9.1:8686/rtp/239.61.2.38:8222
 http://192.168.9.1:8686/rtp/239.61.2.56:8330
 #EXTINF:-1 tvg-name="福建综合" tvg-logo="https://raw.githubusercontent.com/qiushui583/tvtubiao/refs/heads/main/福建综合.png" group-title="福建",福建综合
 http://192.168.9.1:8686/rtp/239.61.3.4:9542
-#EXTINF:-1 tvg-name="东南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongnan.png" group-title="福建",东南卫视
+#EXTINF:-1 tvg-name="东南卫视" tvg-logo="https://raw.githubusercontent.com/qiushui583/tvtubiao/refs/heads/main/东南卫视.png" group-title="福建",东南卫视
 http://192.168.9.1:8686/rtp/239.61.2.132:8708
 #EXTINF:-1 tvg-name="乡村振兴" tvg-logo="https://raw.githubusercontent.com/qiushui583/tvtubiao/refs/heads/main/福建乡村公共.png" group-title="福建",乡村振兴
 http://192.168.9.1:8686/rtp/239.61.2.3:8012
@@ -143,11 +143,11 @@ http://192.168.9.1:8686/rtp/239.61.2.151:8894
 http://192.168.9.1:8686/rtp/239.61.2.173:9026
 #EXTINF:-1 tvg-name="厦门卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xiamen.png" group-title="福建",厦门卫视
 http://192.168.9.1:8686/rtp/239.61.2.11:8060
-#EXTINF:-1 tvg-name="中国交通" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/zgjt.png" group-title="福建",中国交通
+#EXTINF:-1 tvg-name="中国交通" tvg-logo="https://raw.githubusercontent.com/qiushui583/tvtubiao/refs/heads/main/中国交通.png" group-title="福建",中国交通
 http://192.168.9.1:8686/rtp/239.61.3.104:10154
-#EXTINF:-1 tvg-name="新动漫" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/xindongman.png" group-title="动漫",新动漫
+#EXTINF:-1 tvg-name="新动漫" tvg-logo="https://raw.githubusercontent.com/qiushui583/tvtubiao/refs/heads/main/新动漫.png" group-title="动漫",新动漫
 http://192.168.9.1:8686/rtp/239.61.4.173:1025
-#EXTINF:-1 tvg-name="金鹰卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jinyingkatong.png" group-title="动漫",金鹰卡通
+#EXTINF:-1 tvg-name="金鹰卡通" tvg-logo="https://raw.githubusercontent.com/qiushui583/tvtubiao/refs/heads/main/金鹰卡通.png" group-title="动漫",金鹰卡通
 http://192.168.9.1:8686/rtp/239.61.2.221:9314
 #EXTINF:-1 tvg-name="卡酷卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/kaku.png" group-title="动漫",卡酷卡通
 http://192.168.9.1:8686/rtp/239.61.2.222:9320
