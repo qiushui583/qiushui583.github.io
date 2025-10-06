@@ -141,7 +141,7 @@ http://192.168.9.1:8686/rtp/239.61.2.9:8048
 http://192.168.9.1:8686/rtp/239.61.2.151:8894
 #EXTINF:-1 tvg-name="福建教育频道" tvg-logo="https://raw.githubusercontent.com/qiushui583/tvtubiao/refs/heads/main/福建教育.png" group-title="福建",福建教育频道
 http://192.168.9.1:8686/rtp/239.61.2.173:9026
-#EXTINF:-1 tvg-name="厦门卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xiamen.png" group-title="福建",厦门卫视
+#EXTINF:-1 tvg-name="厦门卫视" tvg-logo="https://raw.githubusercontent.com/qiushui583/tvtubiao/refs/heads/main/厦门卫视.png" group-title="福建",厦门卫视
 http://192.168.9.1:8686/rtp/239.61.2.11:8060
 #EXTINF:-1 tvg-name="中国交通" tvg-logo="https://raw.githubusercontent.com/qiushui583/tvtubiao/refs/heads/main/中国交通.png" group-title="福建",中国交通
 http://192.168.9.1:8686/rtp/239.61.3.104:10154
@@ -153,15 +153,15 @@ http://192.168.9.1:8686/rtp/239.61.2.221:9314
 http://192.168.9.1:8686/rtp/239.61.2.222:9320
 #EXTINF:-1 tvg-name="嘉佳卡通" tvg-logo="https://raw.githubusercontent.com/qiushui583/tvtubiao/refs/heads/main/嘉佳卡通.png" group-title="动漫",嘉佳卡通
 http://192.168.9.1:8686/rtp/239.61.4.74:1025
-#EXTINF:-1 tvg-name="茶频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/DOCUMENTARY-CHANNEL.jpg" group-title="其他",茶频道
+#EXTINF:-1 tvg-name="茶频道" tvg-logo="https://raw.githubusercontent.com/qiushui583/tvtubiao/refs/heads/main/湖南茶.png" group-title="其他",茶频道
 http://192.168.9.1:8686/rtp/239.61.3.59:9872 
-#EXTINF:-1 tvg-name="梨园" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE20.jpg" group-title="其他",梨园 
+#EXTINF:-1 tvg-name="梨园" tvg-logo="https://raw.githubusercontent.com/qiushui583/tvtubiao/refs/heads/main/河南梨园.png" group-title="其他",梨园 
 http://192.168.9.1:8686/rtp/239.61.3.19:9634
-#EXTINF:-1 tvg-name="文物宝库" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/WENWUBAOKU.jpg" group-title="其他",文物宝库  
+#EXTINF:-1 tvg-name="文物宝库" tvg-logo="https://raw.githubusercontent.com/qiushui583/tvtubiao/refs/heads/main/河南文物宝库.png" group-title="其他",文物宝库  
 http://192.168.9.1:8686/rtp/239.61.3.21:9646 
-#EXTINF:-1 tvg-name="武术世界" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/WUSHUSHIJIE.jpg" group-title="其他",武术世界  
+#EXTINF:-1 tvg-name="武术世界" tvg-logo="https://raw.githubusercontent.com/qiushui583/tvtubiao/refs/heads/main/河南武术世界.png" group-title="其他",武术世界  
 http://192.168.9.1:8686/rtp/239.61.3.22:9652 
-#EXTINF:-1 tvg-name="先锋乒羽" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/XFBY.png" group-title="其他",先锋乒羽
+#EXTINF:-1 tvg-name="先锋乒羽" tvg-logo="https://raw.githubusercontent.com/qiushui583/tvtubiao/refs/heads/main/先锋乒羽.png" group-title="其他",先锋乒羽
 http://192.168.9.1:8686/rtp/239.61.3.17:9622 
 #EXTINF:-1 tvg-name="中国教育-1" tvg-logo="https://raw.githubusercontent.com/qiushui583/tvtubiao/refs/heads/main/中国教育电视台1.png" group-title="教育",中国教育-1 
 http://192.168.9.1:8686/rtp/239.61.2.167:8990 
@@ -181,13 +181,13 @@ http://192.168.9.1:8686/rtp/239.61.3.64:9902
 http://192.168.9.1:8686/rtp/239.61.3.70:9938
 #EXTINF:-1 tvg-name="生态环境" tvg-logo="https://raw.githubusercontent.com/qiushui583/tvtubiao/refs/heads/main/生态环境.png" group-title="其他",生态环境
 http://192.168.9.1:8686/rtp/239.61.3.68:9926
-#EXTINF:-1 tvg-name="四海钓鱼" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/BAMC4.jpg" group-title="其他",四海钓鱼
+#EXTINF:-1 tvg-name="四海钓鱼" tvg-logo=https://raw.githubusercontent.com/qiushui583/tvtubiao/refs/heads/main/四海钓鱼.png" group-title="其他",四海钓鱼
 http://192.168.9.1:8686/rtp/239.61.3.69:9932 
-#EXTINF:-1 tvg-name="发现之旅" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVfaxianzhilv.png" group-title="其他",发现之旅
+#EXTINF:-1 tvg-name="发现之旅" tvg-logo="https://raw.githubusercontent.com/qiushui583/tvtubiao/refs/heads/main/发现之旅.png" group-title="其他",发现之旅
 http://192.168.9.1:8686/rtp/239.61.3.74:9962 
-#EXTINF:-1 tvg-name="书画频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE37.jpg" group-title="其他",书画频道
+#EXTINF:-1 tvg-name="书画频道" tvg-logo="https://raw.githubusercontent.com/qiushui583/tvtubiao/refs/heads/main/书画.png" group-title="其他",书画频道
 http://192.168.9.1:8686/rtp/239.61.3.97:10100 
-#EXTINF:-1 tvg-name="老故事频道" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVlaogushi.png" group-title="其他",老故事频道 
+#EXTINF:-1 tvg-name="老故事频道" tvg-logo="https://raw.githubusercontent.com/qiushui583/tvtubiao/refs/heads/main/老故事.png" group-title="其他",老故事频道 
 http://192.168.9.1:8686/rtp/239.61.3.98:10106  
 #EXTINF:-1 tvg-name="四川4K" tvg-logo="https://raw.githubusercontent.com/qiushui583/tvtubiao/refs/heads/main/四川卫视.png" group-title="地方4K卫视",四川4K
 http://192.168.9.1:8686/rtp/239.61.3.130:10310
