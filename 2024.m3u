@@ -175,12 +175,6 @@ http://192.168.9.1:8686/rtp/239.61.4.188:1025
 http://192.168.9.1:8686/rtp/239.61.2.64:8378
 #EXTINF:-1 tvg-name="中华特产" tvg-logo="https://raw.githubusercontent.com/qiushui583/tvtubiao/refs/heads/main/中华特产.png" group-title="其他",中华特产
 http://192.168.9.1:8686/rtp/239.61.3.72:9950
-#EXTINF:-1 tvg-name="车迷" tvg-logo="https://raw.githubusercontent.com/qiushui583/tvtubiao/refs/heads/main/车迷TV.png" group-title="其他",车迷
-http://192.168.9.1:8686/rtp/239.61.3.64:9902  
-#EXTINF:-1 tvg-name="优优宝贝" tvg-logo="https://raw.githubusercontent.com/qiushui583/tvtubiao/refs/heads/main/优优宝贝.png" group-title="其他",优优宝贝
-http://192.168.9.1:8686/rtp/239.61.3.70:9938
-#EXTINF:-1 tvg-name="生态环境" tvg-logo="https://raw.githubusercontent.com/qiushui583/tvtubiao/refs/heads/main/生态环境.png" group-title="其他",生态环境
-http://192.168.9.1:8686/rtp/239.61.3.68:9926
 #EXTINF:-1 tvg-name="四海钓鱼" tvg-logo="https://raw.githubusercontent.com/qiushui583/tvtubiao/refs/heads/main/四海钓鱼.png" group-title="其他",四海钓鱼
 http://192.168.9.1:8686/rtp/239.61.3.69:9932 
 #EXTINF:-1 tvg-name="发现之旅" tvg-logo="https://raw.githubusercontent.com/qiushui583/tvtubiao/refs/heads/main/发现之旅.png" group-title="其他",发现之旅
